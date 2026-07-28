@@ -9,7 +9,7 @@
 - 🎓 Junior **Flutter Developer**
 - 💙 I build cross-platform mobile apps with **Flutter & Dart**
 - 🌱 Currently learning **State Management (Bloc/Riverpod)** and **Firebase**
-- 📫 Email me: **your-email@example.com**
+- 📫 Email me: **muneer.hassan@techparser.io**
 
 ## 🛠️ Tech Stack
 
@@ -23,8 +23,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MuneerTechparser&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MuneerTechparser&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -32,7 +32,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneer.hassan@techparser.io)
 
 </div>
